@@ -3,7 +3,7 @@
 
 :sparkle: View the [official Dadosfera Public Product Roadmap](https://roadmap.dadosfera.ai)
 
-* Our product roadmap is where you can see what features we're working on, we're about to work or what we already have in mind. You can also suggest new features by submmiting a issue.
+* Our product roadmap is where you can see what features we're working on, we're about to work or what we already have in mind. You can also suggest new features by submmiting a new issue [here](https://github.com/dadosfera/public-roadmap/issues).
 * If you have a request for a new feature that you want to purchase for your plan, send an email directly to the Customer Success team (cs@dadosfera.ai).
 * Have any general questions or comments about Dadosfera Product? Share your feedback via [Dadosfera Forum](https://docs.dadosfera.ai/discuss). 
 
@@ -20,7 +20,7 @@ Any statement in this repository that is not purely historical is considered a f
 
 :sparkle: Veja o [Roadmap Público de Produto da Dadosfera](https://roadmap.dadosfera.ai)
 
-* Nosso roadmao é onde você pode ver em quais funcionalidades estamos trabalhando, estamos prestes a trabalhar ou o que já temos em mente. Você também pode sugerir novas funcionalidade ao submeter uma nova issue.
+* Nosso roadmao é onde você pode ver em quais funcionalidades estamos trabalhando, estamos prestes a trabalhar ou o que já temos em mente. Você também pode sugerir novas funcionalidade ao submeter uma nova issue [aqui](https://github.com/dadosfera/public-roadmap/issues).
 * Se você tiver uma solicitação de uma nova funcionalidade que deseja adquirir para o seu plano, envie um e-mail diretamente para a equipe de Sucesso do Cliente (cs@dadosfera.ai).
 * Possui alguma dúvida geral sobre o produto Dadosfera? Compartilhe seus comentários através do [Fórum Dadosfera](https://docs.dadosfera.ai/discuss).
 
