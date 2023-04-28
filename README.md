@@ -4,7 +4,7 @@
 
 ### Roadmap Público da Dadosfera
 
-Acesse [aqui](https://github.com/orgs/dadosfera/projects/13/views/1) o Roadmap Público de Produto da Dadosfera.
+Acesse [aqui o Roadmap Público de Produto da Dadosfera.](https://github.com/orgs/dadosfera/projects/13/views/1)
 
 * Nosso roadmap é onde você pode ver em quais funcionalidades estamos trabalhando, estamos prestes a trabalhar ou o que já temos em mente. Você também pode sugerir novas funcionalidade ao submeter uma nova issue [aqui](https://github.com/dadosfera/public-roadmap/issues).
 * Se você tiver uma solicitação de uma nova funcionalidade que deseja adquirir para o seu plano, envie um e-mail diretamente para a equipe de Sucesso do Cliente (cs@dadosfera.ai).
